@@ -1,0 +1,6 @@
+WebScrapper/service/ScrapperService.class
+WebScrapper/controllers/ServiceController.class
+WebScrapper/daolayer/ChannelURL.class
+WebScrapper/webScrapper.class
+WebScrapper/daolayer/ApplicationRepository.class
+WebScrapper/daolayer/MongoDBTemplate.class

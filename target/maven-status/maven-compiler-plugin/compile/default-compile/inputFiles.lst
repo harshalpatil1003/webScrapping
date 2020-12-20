@@ -1,0 +1,6 @@
+/home/harshal/WebScrapping/src/main/java/WebScrapper/service/ScrapperService.java
+/home/harshal/WebScrapping/src/main/java/WebScrapper/webScrapper.java
+/home/harshal/WebScrapping/src/main/java/WebScrapper/controllers/ServiceController.java
+/home/harshal/WebScrapping/src/main/java/WebScrapper/daolayer/ApplicationRepository.java
+/home/harshal/WebScrapping/src/main/java/WebScrapper/daolayer/ChannelURL.java
+/home/harshal/WebScrapping/src/main/java/WebScrapper/daolayer/MongoDBTemplate.java
